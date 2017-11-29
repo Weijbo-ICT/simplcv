@@ -1,3 +1,0 @@
-#!/binbash
-
-sudo docker run -p 54717:8888 -v /home/adminjw/simplecv:/home/docker/-t -i sightmachine/simplecv
