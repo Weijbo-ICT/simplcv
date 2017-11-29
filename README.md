@@ -10,7 +10,7 @@ Stap2
 cd simplecv/
 
 Stap3
-sudo chmod +x setup.py
+sudo chmod +x setup.sh
 
 Stap4
 ./setup.py
