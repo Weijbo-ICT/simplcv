@@ -13,7 +13,7 @@ Stap3
 sudo chmod +x setup.sh
 
 Stap4
-./setup.py
+./setup.sh
 
 Hierna is een webpagina beschikbaar op http://localhost:54717
 
